@@ -1,0 +1,18 @@
+#id {
+font-size: 50px;
+
+}
+.post {
+    padding: 20px;
+    border: solid 1px;
+
+    font-size: 30px;
+
+}
+#title{
+    color:rgb(236, 15, 15);
+
+}
+#body{
+    color: gold;
+}
